@@ -1,3 +1,3 @@
-# e-commerce-app
+# E-Commerce-Application
 
-Bu proyekt ReactJS da qilingan!
+Bu proyekt ReactJS da qilingan! 
