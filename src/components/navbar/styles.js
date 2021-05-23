@@ -6,6 +6,8 @@ export default makeStyles((theme) => ({
         appBar: {
             boxShadow: "none",
             borderBottom: "1px solid rgba(0, 0, 0, 12)",
+            backgroundColor: "#6b6c76",
+            color: "white",
             [theme.breakpoints.up("sm")]: {
                 width: `calc(100% - ${drawerWidth}px`,
                 marginLeft: drawerWidth,
@@ -15,7 +17,6 @@ export default makeStyles((theme) => ({
             flexGrow: 1,
             alignItems: 'center',
             display: 'flex',
-            textDecoration: 'none'
         },
         image: {
             marginRight: "10px",
