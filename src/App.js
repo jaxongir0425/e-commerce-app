@@ -1,10 +1,12 @@
 import React from "react";
+import {Products, Navbar} from "./components";
 
 function App() {
     return (
         <>
 
-            <h1>Hello World!!!</h1>
+            <Navbar/>
+            <Products/>
 
         </>
     );
