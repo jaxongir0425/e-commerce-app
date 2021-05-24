@@ -66,7 +66,7 @@ function App() {
                     />
                 </Route>
                 <Route path="/checkout" exact>
-                    <Checkout/>
+                    <Checkout cart={cart}/>
                 </Route>
             </Switch>
 
