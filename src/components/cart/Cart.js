@@ -20,7 +20,7 @@ const Cart = ({cart, handleUpdateCartQty, handleRemoveFromCart, handleEmptyCart}
     const FieldCart = () => {
         return (
             <>
-                <Grid container spacing={3}>
+                <Grid container spacing={3} style={{backgroundColor: "#e7e8f1"}}>
                     {
                         cart.line_items.map((item) => (
                             <Grid item xs={12} sm={4} key={item.id}>
