@@ -1,21 +1,23 @@
 # E-Commerce-Application in ReactJS
 
+https://e-commerce-app-0102.herokuapp.com/ shu yerga deployment qilindi
+
+1. Cartga qo'shish
+2. Cartdan o'chirish
+3. Payment
+
 React JS ning ushbu qo'shimcha kutubxonalaridan foydalanilgan
 
-react-hook-form: "^7.6.4". 
-react-router-dom: "^5.2.0".
-@chec/commerce.js: "^2.6.0". 
-@material-ui/core: "^4.11.4".
-
-@material-ui/icons: "^4.11.2". 
-
-@stripe/react-stripe-js: "^1.4.1".
-
-@stripe/stripe-js: "^1.15.0".
+1. react-hook-form: "^7.6.4". 
+2. react-router-dom: "^5.2.0".
+3. @chec/commerce.js: "^2.6.0". 
+4. @material-ui/core: "^4.11.4".
+5. @material-ui/icons: "^4.11.2". 
+6. @stripe/react-stripe-js: "^1.4.1".
+7. @stripe/stripe-js: "^1.15.0".
 
 
 Keylar shu yerdan olingan
 
-https://commercejs.com/
-
-https://stripe.com/
+1. https://commercejs.com/
+2. https://stripe.com/
