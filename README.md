@@ -4,7 +4,8 @@ https://e-commerce-app-0102.herokuapp.com/ shu yerga deployment qilindi
 
 1. Cartga qo'shish
 2. Cartdan o'chirish
-3. Payment
+3. Checkout
+4. Payment sistemalari qo'shilgan
 
 React JS ning ushbu qo'shimcha kutubxonalaridan foydalanilgan
 
